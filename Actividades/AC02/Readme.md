@@ -2,7 +2,7 @@
 
 La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del termino de la clase**.
 
-| Puesto          | User 1           | Nombre 1              | Puesto                | User 1                  |
+| Puesto          | User 1           | Nombre 1              | User 2                | Nombre 2                |
 |-----------------|------------------|-----------------------|-----------------------|-------------------------|
 | **K201 01-C/D** |                  | Duncan Nigel Sturrock |                       |                         |  
 | **K201 01-E/F** | vlrivas          | Valentina Rivas       | josefinabengoa        | Josefina Bengoa         |
