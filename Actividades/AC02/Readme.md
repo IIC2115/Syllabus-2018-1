@@ -4,11 +4,11 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 
 | Puesto          | User 1           | Nombre 1              | Puesto                | User 1                  |
 |-----------------|------------------|-----------------------|-----------------------|-------------------------|
-| **K201 01-C/D** | oaleiva          | Omar Leiva            | GabrielaVeliz         | Gabriela Veliz          |
+| **K201 01-C/D** |                  | Duncan Nigel Sturrock |                       |                         |  
 | **K201 01-E/F** | vlrivas          | Valentina Rivas       | josefinabengoa        | Josefina Bengoa         |
 | **K201 01-H/I** | lpcelleri        | Loredanna Celleri     | gaordonez             | Gonzalo Ordoñez         |
 | **K201 01-K/L** | padelabarra      | Pedro De La Barra     | cforyan               | Cristobal O'Ryan        |
-| **K201 01-M/N** |                  | Duncan Nigel Sturrock |                       |                         |
+| **K201 01-M/N** | oaleiva          | Omar Leiva            | GabrielaVeliz         | Gabriela Veliz          |
 | **K201 02-C/D** | dlpesce          | Dante Pesce           | mapuebla              | Mauro Puebla            |
 | **K201 02-E/F** | nmorales1        | Nicolas Morales       | Sebastiano7           | Sebastian Mohr          |
 | **K201 02-H/I** | saboetto         | Sebastian Boetto      | ilpena                | Ignacio Peña            |
