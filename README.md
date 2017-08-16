@@ -45,4 +45,5 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
  
  ## Participación
  
- En este [link](https://drive.google.com/open?id=1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE)
+ Link pendiente
+
