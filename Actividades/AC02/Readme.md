@@ -4,7 +4,7 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 
 | Puesto          | User 1           | Nombre 1              | User 2                | Nombre 2                |
 |-----------------|------------------|-----------------------|-----------------------|-------------------------|
-| **K201 01-C/D** |                  | Duncan Nigel Sturrock |                       |                         |  
+| **K201 01-C/D** |                  | Duncan Nigel Sturrock |                       | Guido Ignacio Sepúlveda |  
 | **K201 01-E/F** | vlrivas          | Valentina Rivas       | josefinabengoa        | Josefina Bengoa         |
 | **K201 01-H/I** | lpcelleri        | Loredanna Celleri     | gaordonez             | Gonzalo Ordoñez         |
 | **K201 01-K/L** | padelabarra      | Pedro De La Barra     | cforyan               | Cristobal O'Ryan        |
@@ -17,8 +17,8 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 | **K201 03-C/D** | etebrito         | Esteban Brito         | asweinstein           | Andres Weinstein        |
 | **K201 03-E/F** | cristianhojas    | Cristian Hojas        | inavarro1             | Isidora Navarro         |
 | **K201 03-H/I** | jpzepedanunez    | Juan Zepeda Nuñez     | isidorapalmap         | Isidora Palma           |
-| **K201 03-K/L** | sebalinderman    | Sebastian Linderman   |                       | Guido Ignacio Sepúlveda |
-| **K201 03-M/N** |                  | Maria Jose Gomez      | iichandia             | Ivan Chandia            |
+| **K201 03-K/L** | sebalinderman    | Sebastian Linderman   | cfcarmona             | Constanza Carmona       |
+| **K201 03-M/N** | mjgomez3         | Maria Jose Gomez      | iichandia             | Ivan Chandia            |
 | **K201 04-C/D** | diegosantelices  | Diego Santelices      | jtlafuente            | Jose Lafuente           |
 | **K201 04-E/F** | macamellado      | Macarena Mellado      | sgmigliaro            | Sebastian Migliaro      |
 | **K201 04-H/I** | jflagos          | Juan Lagos            | pedrosantelices       | Pedro Santelices        |
@@ -34,3 +34,6 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 | **K201 06-H/I** | GianfrancoSattui | Gianfranco Sattui     | lfandrighetti         | Laura Andrighetti       |
 | **K201 06-K/L** | amelero          | Agustin Melero        | mavaldivia            | Mauricio Valdivia       |
 | **K201 06-M/N** | elzambon         | Enzo Zambon           | sitoro                | Sebastian Toro          |
+| **K201 07-C/D** | tiramirez        | Tomas Ignacio Ramirez | jpcelery              | Jean Paul Celery        |
+| **K201 07-E/F** | njara10          | Nicolas Jara          |                       |                         |
+
