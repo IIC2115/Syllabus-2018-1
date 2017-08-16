@@ -38,3 +38,11 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 | Bastián Mavrakis| [@bamavrakis](https://github.com/bamavrakis) |
 | Felipe Quinteros| [@fnquinteros](https://github.com/fnquinteros) |
 | Hugo Navarrete | [@hanavarrete](https://github.com/hanavarrete) |
+
+## Notas
+
+ Link pendiente
+ 
+ ## Participación
+ 
+ En este [link](https://drive.google.com/open?id=1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE)
