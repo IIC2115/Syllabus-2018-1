@@ -1,0 +1,36 @@
+## AC02
+
+La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del tÃ©rmino de la clase**.
+
+| Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
+|:-------|:-------|:---------|:-------|:---------|
+| **K201 01-A** | sebalinderman | Sebastian Linderman |  |   |
+| **K201 01-B/C** | Sebastiano7 | Sebastian Mohr | saboetto | Sebastian Boetto |
+| **K201 01-D/E** | mandrade1 | Martin Andrade | jpzepedanunez | Juan Zepeda Nuã‘Ez |
+| **K201 01-F/G** | baltagonzalez | Baltazar Gonzalez | inavarro1 | Isidora Navarro |
+| **K201 01-J/K** | isidorapalmap | Isidora Palma | cforyan | Cristobal O'Ryan |
+| **K201 01-L/M** | pedrosantelices | Pedro Santelices | mavaldivia | Mauricio Valdivia |
+| **K201 01-N/O** | GabrielaVeliz | Gabriela Veliz | idmdvan | Ivan Moreno |
+| **K201 02-A/B** | lpcelleri | Loredanna Celleri | josefinabengoa | Josefina Bengoa |
+| **K201 02-C/D** | vlrivas | Valentina Rivas | jtlafuente | Jose Lafuente |
+| **K201 02-E/F** | patocourta | Patricio Court | pibriones | Pamela Briones |
+| **K201 02-G/H** | Tamarainfante | Tamara Infante | ilpena | Ignacio Peã‘A |
+| **K201 02-I/J** | nmorales1 | Nicolas Morales | asweinstein | Andres Weinstein |
+| **K201 02-K/L** | elzambon | Enzo Zambon | amelero | Agustin Melero |
+| **K201 02-M/N** | Carlos0C | Carlos Cespedes | gaordonez | Gonzalo Ordoã‘Ez |
+| **K201 02-O/P** | mjgomez3 | Maria Gomez | macamellado | Macarena Mellado |
+| **K201 03-A/B** | isalvador95 | Iã‘Aki Salvador | padelabarra | Pedro De La Barra |
+| **K201 03-C/D** | juanmanuelmedina | Juan Medina | rtrucco | Rodrigo Trucco |
+| **K201 03-E/F** | fxalvarez | Francisco Alvarez | oaleiva | Omar Leiva |
+| **K201 03-G/H** | dlpesce | Dante Pesce | sitoro | Sebastian Toro |
+| **K201 03-I/J** | mapuebla | Mauro Puebla | marcelodutilh | Marcelo Dutilh |
+| **K201 03-K/L** | MaximoVillarinoSelman | Maximo Villarino | ndschnitzler | Natalia Schnitzler |
+| **K201 03-M/N** | sgmigliaro | Sebastian Migliaro | diegosantelices | Diego Santelices |
+| **K201 03-O/P** | cfcarmona | Constanza Carmona | jpcelery | Jean Celery |
+| **K201 04-A/B** | cristianhojas | Cristian Hojas | tiramirez | Tomas Ramirez |
+| **K201 04-C/D** | iichandia | Ivan Chandia | baespinoza | Benjamin Espinoza |
+| **K201 04-E/F** | jflagos | Juan Lagos | macatalantalan | Macarena Catalan |
+| **K201 04-G/H** | IgnacioInfanteRiba | Ignacio Infante | njara10 | Nicolas Jara |
+| **K201 04-I/J** | lfandrighetti | Laura Andrighetti | dsgomez7 | Diego Gomez |
+| **K201 04-K/L** | etebrito | Esteban Brito | GianfrancoSattui | Gianfranco Sattui |
+| **K201 04-M/N** | vpcardenas | Valeria Cardenas | fomorales | Francisco Morales |
