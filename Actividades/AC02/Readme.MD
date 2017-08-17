@@ -6,7 +6,7 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 |:-------|:-------|:---------|:-------|:---------|
 | **K201 01-M** | sebalinderman | Sebastian Linderman |  |   |
 | **K201 01-A/B** | Sebastiano7 | Sebastian Mohr | saboetto | Sebastian Boetto |
-| **K201 01-C/D** | mandrade1 | Martin Andrade | jpzepedanunez | Juan Zepeda Nuã‘Ez |
+| **K201 01-C/D** | mandrade1 | Martin Andrade | jpzepedanunez | Juan Zepeda Nuñez |
 | **K201 01-E/F** | baltagonzalez | Baltazar Gonzalez | inavarro1 | Isidora Navarro |
 | **K201 01-G/H** | isidorapalmap | Isidora Palma | cforyan | Cristobal O'Ryan |
 | **K201 01-I/J** | pedrosantelices | Pedro Santelices | mavaldivia | Mauricio Valdivia |
