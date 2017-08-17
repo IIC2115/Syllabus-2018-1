@@ -14,10 +14,10 @@ La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisar
 | **K201 02-A/B** | lpcelleri | Loredanna Celleri | josefinabengoa | Josefina Bengoa |
 | **K201 02-C/D** | vlrivas | Valentina Rivas | jtlafuente | Jose Lafuente |
 | **K201 02-E/F** | patocourta | Patricio Court | pibriones | Pamela Briones |
-| **K201 02-G/H** | Tamarainfante | Tamara Infante | ilpena | Ignacio Peã‘A |
+| **K201 02-G/H** | Tamarainfante | Tamara Infante | ilpena | Ignacio Peña |
 | **K201 02-I/J** | nmorales1 | Nicolas Morales | asweinstein | Andres Weinstein |
 | **K201 02-K/L** | elzambon | Enzo Zambon | amelero | Agustin Melero |
-| **K201 02-M/N** | Carlos0C | Carlos Cespedes | gaordonez | Gonzalo Ordoã‘Ez |
+| **K201 02-M/N** | Carlos0C | Carlos Cespedes | gaordonez | Gonzalo Ordoñez |
 | **K201 02-O/P** | mjgomez3 | Maria Gomez | macamellado | Macarena Mellado |
 | **K201 03-A/B** | isalvador95 | Iñaki Salvador | padelabarra | Pedro De La Barra |
 | **K201 03-C/D** | juanmanuelmedina | Juan Medina | rtrucco | Rodrigo Trucco |
