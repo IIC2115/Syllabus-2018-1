@@ -1,16 +1,16 @@
 ## AC02
 
-La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del tÃ©rmino de la clase**.
+La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del término de la clase**.
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **K201 01-A** | sebalinderman | Sebastian Linderman |  |   |
-| **K201 01-B/C** | Sebastiano7 | Sebastian Mohr | saboetto | Sebastian Boetto |
-| **K201 01-D/E** | mandrade1 | Martin Andrade | jpzepedanunez | Juan Zepeda Nuã‘Ez |
-| **K201 01-F/G** | baltagonzalez | Baltazar Gonzalez | inavarro1 | Isidora Navarro |
-| **K201 01-J/K** | isidorapalmap | Isidora Palma | cforyan | Cristobal O'Ryan |
-| **K201 01-L/M** | pedrosantelices | Pedro Santelices | mavaldivia | Mauricio Valdivia |
-| **K201 01-N/O** | GabrielaVeliz | Gabriela Veliz | idmdvan | Ivan Moreno |
+| **K201 01-M** | sebalinderman | Sebastian Linderman |  |   |
+| **K201 01-A/B** | Sebastiano7 | Sebastian Mohr | saboetto | Sebastian Boetto |
+| **K201 01-C/D** | mandrade1 | Martin Andrade | jpzepedanunez | Juan Zepeda Nuã‘Ez |
+| **K201 01-E/F** | baltagonzalez | Baltazar Gonzalez | inavarro1 | Isidora Navarro |
+| **K201 01-G/H** | isidorapalmap | Isidora Palma | cforyan | Cristobal O'Ryan |
+| **K201 01-I/J** | pedrosantelices | Pedro Santelices | mavaldivia | Mauricio Valdivia |
+| **K201 01-K/L** | GabrielaVeliz | Gabriela Veliz | idmdvan | Ivan Moreno |
 | **K201 02-A/B** | lpcelleri | Loredanna Celleri | josefinabengoa | Josefina Bengoa |
 | **K201 02-C/D** | vlrivas | Valentina Rivas | jtlafuente | Jose Lafuente |
 | **K201 02-E/F** | patocourta | Patricio Court | pibriones | Pamela Briones |
@@ -19,7 +19,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **K201 02-K/L** | elzambon | Enzo Zambon | amelero | Agustin Melero |
 | **K201 02-M/N** | Carlos0C | Carlos Cespedes | gaordonez | Gonzalo Ordoã‘Ez |
 | **K201 02-O/P** | mjgomez3 | Maria Gomez | macamellado | Macarena Mellado |
-| **K201 03-A/B** | isalvador95 | Iã‘Aki Salvador | padelabarra | Pedro De La Barra |
+| **K201 03-A/B** | isalvador95 | Iñaki Salvador | padelabarra | Pedro De La Barra |
 | **K201 03-C/D** | juanmanuelmedina | Juan Medina | rtrucco | Rodrigo Trucco |
 | **K201 03-E/F** | fxalvarez | Francisco Alvarez | oaleiva | Omar Leiva |
 | **K201 03-G/H** | dlpesce | Dante Pesce | sitoro | Sebastian Toro |
