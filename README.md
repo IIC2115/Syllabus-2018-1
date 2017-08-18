@@ -45,5 +45,5 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
  
  ## Participación
  
- Link pendiente
+En este [link](https://docs.google.com/a/uc.cl/spreadsheets/d/1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE/edit?usp=sharing)
 
