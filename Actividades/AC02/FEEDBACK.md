@@ -2,7 +2,7 @@
 
 ## Overview
 ----------
-Ayudante corrector: 
+Ayudante corrector:
 
 ### Puntaje
 | Item | Puntaje |
@@ -15,10 +15,10 @@ Ayudante corrector:
 
 | Nota |
 |:-----|
-| **1.0** |
-	
-### Comentarios Generales
+| **X.X** |
 
+### Comentarios Generales
+* Este solo es la repartición de puntaje que se ocupará para esta actividad.
 
 ## Desglose Puntaje
 ----------
@@ -26,7 +26,7 @@ Ayudante corrector:
 
 #### OOP **(4.0 pts)**
 
-* **(1.0 pts)** Item 1: Correcta organización de la jerarquía de clases. 
+* **(1.0 pts)** Item 1: Correcta organización de la jerarquía de clases.
 * **(0.5 pts)** Item 2: Implementación de clase abstracta y métodos abstractos.
 * **(1.0 pts)** Item 3: Personajes tienen los métodos necesarios y estos tienen efecto en otros objetos.
 * **(0.5 pts)** Item 4: Personajes poseen los atributos mínimos y tienen valores por defecto.
