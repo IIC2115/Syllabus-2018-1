@@ -1,0 +1,140 @@
+{
+    "0": {
+        "name": "Bastian Mavrakis",
+        "birthday_year": 2003,
+        "job": "Conductor del papamovil",
+        "gender": "Variado"
+    },
+    "1": {
+        "name": "Hans Lobel",
+        "birthday_year": 2003,
+        "job": "Catador de alimento para perros",
+        "gender": "Masculino"
+    },
+    "2": {
+        "name": "Daniela Flores",
+        "birthday_year": 1969,
+        "job": "Transportador profesional de icebergs",
+        "gender": "Cebolla"
+    },
+    "3": {
+        "name": "Hernan Valdivieso",
+        "birthday_year": 1995,
+        "job": "Torturador Profesional",
+        "gender": "Desconocido"
+    },
+    "4": {
+        "name": "Stephanie Chau",
+        "birthday_year": 2000,
+        "job": "Torturador Profesional",
+        "gender": "Es complicado"
+    },
+    "5": {
+        "name": "Hugo Navarrete",
+        "birthday_year": 2001,
+        "job": "Torturador Profesional",
+        "gender": "Caballo"
+    },
+    "6": {
+        "name": "Vicente Valencia",
+        "birthday_year": 1977,
+        "job": "Torturador Profesional",
+        "gender": "Es complicado"
+    },
+    "7": {
+        "name": "Felipe Quinteros",
+        "birthday_year": 1987,
+        "job": "Transportador profesional de icebergs",
+        "gender": "Macho Alfa"
+    },
+    "8": {
+        "name": "Katherine Gutierrez",
+        "birthday_year": 1992,
+        "job": "Solista de triangulo",
+        "gender": "Depende del d\u00eda"
+    },
+    "9": {
+        "name": "Fernando Pieressa",
+        "birthday_year": 1964,
+        "job": "Inspector de olor de axilas",
+        "gender": "Masculino"
+    },
+    "10": {
+        "name": "Adrian Soto",
+        "birthday_year": 1980,
+        "job": "Critico de parrilla",
+        "gender": "Caballo"
+    },
+    "11": {
+        "name": "Nicolas Teare",
+        "birthday_year": 1977,
+        "job": "Solista de triangulo",
+        "gender": "Variado"
+    },
+    "12": {
+        "name": "Juan Carlos Bodoque",
+        "birthday_year": 1980,
+        "job": "Torturador Profesional",
+        "gender": "Depende del d\u00eda"
+    },
+    "13": {
+        "name": "Florencia Barrios",
+        "birthday_year": 1961,
+        "job": "Conductor del papamovil",
+        "gender": "Masculino"
+    },
+    "14": {
+        "name": "Felipe Pezoa",
+        "birthday_year": 1968,
+        "job": "Inspector de olor de axilas",
+        "gender": "No se acuerda"
+    },
+    "15": {
+        "name": "Florencia Valladares",
+        "birthday_year": 1982,
+        "job": "Inspector de olor de axilas",
+        "gender": "Macho Alfa"
+    },
+    "16": {
+        "name": "",
+        "birthday_year": 1964,
+        "job": "Inspector de olor de axilas",
+        "gender": "Es complicado"
+    },
+    "17": {
+        "name": "Cristian Ruz",
+        "birthday_year": 1964,
+        "job": "Inspector de olor de axilas",
+        "gender": "Femenino"
+    },
+    "18": {
+        "name": "Isaac Carrera",
+        "birthday_year": 1980,
+        "job": "Transportador profesional de icebergs",
+        "gender": "Variado"
+    },
+    "19": {
+        "name": "Javier Montoya",
+        "birthday_year": 2000,
+        "job": "Transportador profesional de icebergs",
+        "gender": "Variado"
+    },
+    "20": {
+        "name": "Francesca Lucchini",
+        "birthday_year": 1961,
+        "job": "Probador de cotonitos",
+        "gender": "Unicornio"
+    },
+    "21": {
+        "name": "Cristian Riveros",
+        "birthday_year": 1980,
+        "job": "Inspector de olor de axilas",
+        "gender": "Hermafrodita"
+    },
+    "22": {
+        "name": "Juan Reutter",
+        "birthday_year": 1963,
+        "job": "Solista de triangulo",
+        "gender": "Es complicado"
+    }
+}
