@@ -6,7 +6,7 @@ def obtener_informacion():
         with open("Personas.json") as file:
             return load(file)
     except FileNotFoundError:
-        print("El archivo Personas.json no está en la carpeta junto a utils.py")
+        print("El archivo Personas.json no esta en la carpeta junto a utils.py")
         return None
 
 
@@ -15,5 +15,5 @@ def obtener_relaciones():
         with open("Familia.json") as file:
             return load(file)
     except FileNotFoundError:
-        print("El archivo Familia.json no está en la carpeta junto a utils.py")
+        print("El archivo Familia.json no esta en la carpeta junto a utils.py")
         return None
