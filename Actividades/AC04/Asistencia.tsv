@@ -1,29 +1,29 @@
-Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia
- **K201 01-A/B** 	 isalvador95 	 Iã‘Aki Salvador 		 pedrosantelices 	 Pedro Santelices 	
- **K201 01-C/D** 	 tiramirez 	 Tomas Ramirez 		 fxalvarez 	 Francisco Alvarez 	
- **K201 01-E/F** 	 sitoro 	 Sebastian Toro 		 Carlos0C 	 Carlos Cespedes 	
- **K201 01-G/H** 	 MaximoVillarinoSelman 	 Maximo Villarino 		 mjgomez3 	 Maria Gomez 	
- **K201 01-I/J** 	 njara10 	 Nicolas Jara 		 marcelodutilh 	 Marcelo Dutilh 	
- **K201 01-K/L** 	 asweinstein 	 Andres Weinstein 		 patocourta 	 Patricio Court 	
- **K201 01-M/N** 	 GianfrancoSattui 	 Gianfranco Sattui 		 jpcelery 	 Jean Celery 	
- **K201 01-O/P** 	 ndschnitzler 	 Natalia Schnitzler 		 cristianhojas 	 Cristian Hojas 	
- **K201 02-A/B** 	 mavaldivia 	 Mauricio Valdivia 		 vlrivas 	 Valentina Rivas 	
- **K201 02-C/D** 	 fomorales 	 Francisco Morales 		 gaordonez 	 Gonzalo Ordoã‘Ez 	
- **K201 02-E/F** 	 lfandrighetti 	 Laura Andrighetti 		 jpzepedanunez 	 Juan Zepeda Nuã‘Ez 	
- **K201 02-G/H** 	 sgmigliaro 	 Sebastian Migliaro 		 inavarro1 	 Isidora Navarro 	
- **K201 02-I/J** 	 vpcardenas 	 Valeria Cardenas 		 diegosantelices 	 Diego Santelices 	
- **K201 02-K/L** 	 juanmanuelmedina 	 Juan Medina 		 cfcarmona 	 Constanza Carmona 	
- **K201 02-M/N** 	 pibriones 	 Pamela Briones 		 baespinoza 	 Benjamin Espinoza 	
- **K201 02-O/P** 	 cforyan 	 Cristobal O'Ryan 		 jtlafuente 	 Jose Lafuente 	
- **K201 03-A/B** 	 idmdvan 	 Ivan Moreno 		 etebrito 	 Esteban Brito 	
- **K201 03-C/D** 	 padelabarra 	 Pedro De La Barra 		 Sebastiano7 	 Sebastian Mohr 	
- **K201 03-E/F** 	 sebalinderman 	 Sebastian Linderman 		 macatalantalan 	 Macarena Catalan 	
- **K201 03-G/H** 	 jflagos 	 Juan Lagos 		 lpcelleri 	 Loredanna Celleri 	
- **K201 03-I/J** 	 saboetto 	 Sebastian Boetto 		 macamellado 	 Macarena Mellado 	
- **K201 03-K/L** 	 ilpena 	 Ignacio Peã‘A 		 mapuebla 	 Mauro Puebla 	
- **K201 03-M/N** 	 iichandia 	 Ivan Chandia 		 dsgomez7 	 Diego Gomez 	
- **K201 03-O/P** 	 dlpesce 	 Dante Pesce 		 amelero 	 Agustin Melero 	
- **K201 04-A/B** 	 IgnacioInfanteRiba 	 Ignacio Infante 		 mandrade1 	 Martin Andrade 	
- **K201 04-C/D** 	 nmorales1 	 Nicolas Morales 		 rtrucco 	 Rodrigo Trucco 	
- **K201 04-E/F** 	 Tamarainfante 	 Tamara Infante 		 elzambon 	 Enzo Zambon 	
- **K201 04-G/H** 	 baltagonzalez 	 Baltazar Gonzalez 		 isidorapalmap 	 Isidora Palma 	
+Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia	
+ **K201 01-A/B** 	 isalvador95 	 Iã‘Aki Salvador 	t	 pedrosantelices 	 Pedro Santelices 		t
+ **K201 01-C/D** 	 tiramirez 	 Tomas Ramirez 	t	 fxalvarez 	 Francisco Alvarez 		t
+ **K201 01-E/F** 	 sitoro 	 Sebastian Toro 	t	 Carlos0C 	 Carlos Cespedes 		t
+ **K201 01-G/H** 	 MaximoVillarinoSelman 	 Maximo Villarino 	f	 mjgomez3 	 Maria Gomez 		f
+ **K201 01-I/J** 	 njara10 	 Nicolas Jara 	t	 marcelodutilh 	 Marcelo Dutilh 		t
+ **K201 01-K/L** 	 asweinstein 	 Andres Weinstein 	t	 patocourta 	 Patricio Court 		t
+ **K201 01-M/N** 	 GianfrancoSattui 	 Gianfranco Sattui 	t	 jpcelery 	 Jean Celery 		t
+ **K201 01-O/P** 	 ndschnitzler 	 Natalia Schnitzler 	t	 cristianhojas 	 Cristian Hojas 		t
+ **K201 02-A/B** 	 mavaldivia 	 Mauricio Valdivia 	t	 vlrivas 	 Valentina Rivas 		t
+ **K201 02-C/D** 	 fomorales 	 Francisco Morales 	t	 gaordonez 	 Gonzalo Ordoã‘Ez 		t
+ **K201 02-E/F** 	 lfandrighetti 	 Laura Andrighetti 	t	 jpzepedanunez 	 Juan Zepeda Nuã‘Ez 		t
+ **K201 02-G/H** 	 sgmigliaro 	 Sebastian Migliaro 	t	 inavarro1 	 Isidora Navarro 		t
+ **K201 02-I/J** 	 vpcardenas 	 Valeria Cardenas 	t	 diegosantelices 	 Diego Santelices 		t
+ **K201 02-K/L** 	 juanmanuelmedina 	 Juan Medina 	t	 cfcarmona 	 Constanza Carmona 		f
+ **K201 02-M/N** 	 pibriones 	 Pamela Briones 	t	 baespinoza 	 Benjamin Espinoza 		t
+ **K201 02-O/P** 	 cforyan 	 Cristobal O'Ryan 	t	 jtlafuente 	 Jose Lafuente 		t
+ **K201 03-A/B** 	 idmdvan 	 Ivan Moreno 	t	 etebrito 	 Esteban Brito 		t
+ **K201 03-C/D** 	 padelabarra 	 Pedro De La Barra 	t	 Sebastiano7 	 Sebastian Mohr 		t
+ **K201 03-E/F** 	 sebalinderman 	 Sebastian Linderman 	t	 macatalantalan 	 Macarena Catalan 		f
+ **K201 03-G/H** 	 jflagos 	 Juan Lagos 	t	 lpcelleri 	 Loredanna Celleri 		f
+ **K201 03-I/J** 	 saboetto 	 Sebastian Boetto 	t	 macamellado 	 Macarena Mellado 		t
+ **K201 03-K/L** 	 ilpena 	 Ignacio Peã‘A 	t	 mapuebla 	 Mauro Puebla 		t
+ **K201 03-M/N** 	 iichandia 	 Ivan Chandia 	t	 dsgomez7 	 Diego Gomez 		t
+ **K201 03-O/P** 	 dlpesce 	 Dante Pesce 	t	 amelero 	 Agustin Melero 		t
+ **K201 04-A/B** 	 IgnacioInfanteRiba 	 Ignacio Infante 	f	 mandrade1 	 Martin Andrade 		t
+ **K201 04-C/D** 	 nmorales1 	 Nicolas Morales 	t	 rtrucco 	 Rodrigo Trucco 		t
+ **K201 04-E/F** 	 Tamarainfante 	 Tamara Infante 	f	 elzambon 	 Enzo Zambon 		t
+ **K201 04-G/H** 	 baltagonzalez 	 Baltazar Gonzalez 	t	 isidorapalmap 	 Isidora Palma 		t
