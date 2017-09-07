@@ -43,3 +43,6 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
  
 En este [link](https://docs.google.com/a/uc.cl/spreadsheets/d/1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE/edit?usp=sharing)
 
+## Comentario de evaluaciones.
+
+En este [link](https://goo.gl/forms/SovGD3zC8uoanxqz1)
