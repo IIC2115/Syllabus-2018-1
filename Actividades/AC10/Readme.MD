@@ -6,7 +6,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 |:-------|:-------|:---------|:-------|:---------|
 |K201 01-E/F|sgmigliaro|Sebastian Migliaro|MaximoVillarinoSelman|Maximo Villarino|
 |K201 01-H/I|ilpena|Ignacio Peã‘A|nmorales1|Nicolas Morales|
-|K201 01-K/L|amelero|Agustin Melero|pedrosantelices|Pedro Santelices|
+|K201 01-K/L|amelero|Agustin Melero|patocourta|Patricio Court|
 |K201 01-M/N|fxalvarez|Francisco Alvarez|saboetto|Sebastian Boetto|
 |K201 02-C/D|marcelodutilh|Marcelo Dutilh|lfandrighetti|Laura Andrighetti|
 |K201 02-E/F|iichandia|Ivan Chandia|mjgomez3|Maria Gomez|
