@@ -7,21 +7,15 @@
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, 
 controles del material, tareas y un examen final. Se calculará **la nota del curso NC** como:
 
-    **NC = 0.2 x EE + 0.4 x T + 0.3 x AC + 0.1 x P**
+    **NC = 0.4 x A + 0.4 x T + 0.2 x E + 0.1 x P**
 
-    Donde **EE** es la nota de las evaluaciones escritas, **T** es el promedio de las 5 mejores tareas, **AC** es el promedio de las actividades en clases, y **P** es la nota de participación.
-    
-    Se calculará la nota de las evaluaciones escritas **EE** como:
-    
-    **EE = [(C<sub>1</sub> + C<sub>2</sub> + C<sub>3</sub> + C<sub>4</sub> + 2 * Examen) - min(C<sub>1</sub>, C<sub>2</sub>, C<sub>3</sub>, C<sub>4</sub>, Examen)]/5**
+    Donde **A** es el promedio de las 5 mejores actividades en clases, **T** es el promedio de las 3 mejores tareas, **E** es el promedio de las 5 mejores evaluaciones escritas, y **P** es la nota de participación.
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
-    - **EE** debe ser mayor o igual a 3.950
-    - **AC** debe ser mayor o igual a 3.950
-    - **T** debe ser mayor o igual a 3.950
-1. Si el alumno cumple con las condiciones anteriores, entonces **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
-1. La inasistencia sin justificación a alguna de las evaluaciones (actividad, control) se evalúa con nota 1.0.
-1. El examen tiene carácter obligatorio y no existe eximición de él.
+    - **A** debe ser mayor o igual a 3.95
+    - **T** debe ser mayor o igual a 3.95
+1. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
+1. La inasistencia a alguna de las evaluaciones (actividad, control) se evalúa con nota 1.0.
 
 ## Foro
 
