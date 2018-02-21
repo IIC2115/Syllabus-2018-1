@@ -7,7 +7,7 @@
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, 
 controles del material, tareas y un examen final. Se calculará **la nota del curso NC** como:
 
-    **NC = 0.4 x A + 0.4 x T + 0.2 x E + 0.1 x P**
+    **NC = 0.4 x A + 0.4 x T + 0.1 x E + 0.1 x P**
 
     Donde **A** es el promedio de las 5 mejores actividades en clases, **T** es el promedio de las 3 mejores tareas, **E** es el promedio de las 5 mejores evaluaciones escritas, y **P** es la nota de participación.
 
