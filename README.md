@@ -21,18 +21,20 @@ controles del material, tareas y un examen final. Se calculará **la nota del cu
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
-<!---
+## Otros Semestres
+
+[Syllabus 2017-2](https://github.com/IIC2115/Syllabus-2017-2)
+
 ## Ayudantes
 
 | Nombre | Github |
 | ------ | ------ |
 | Daniela Flores| [@diflores](https://github.com/diflores) |
 | Hernán Valdivieso| [@Hernan4444](https://github.com/Hernan4444) |
-| Vicente Valencia | [@Vince-Valence](https://github.com/Vince-Valence) |
 | Bastián Mavrakis| [@bamavrakis](https://github.com/bamavrakis) |
 | Felipe Quinteros| [@fnquinteros](https://github.com/fnquinteros) |
 | Hugo Navarrete | [@hanavarrete](https://github.com/hanavarrete) |
-
+<!---
 ## Notas y participación
  
 En este [link](https://docs.google.com/a/uc.cl/spreadsheets/d/1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE/edit?usp=sharing)
