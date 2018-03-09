@@ -17,6 +17,10 @@ controles del material, tareas y un examen final. Se calculará **la nota del cu
 1. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 1. La inasistencia a alguna de las evaluaciones (actividad, control) se evalúa con nota 1.0.
 
+## Recorrección o contaco
+
+Utilizar el siguiente [form](https://goo.gl/forms/6jOG0NCgOW5EDObr2)
+
 ## Foro
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas.
@@ -34,11 +38,13 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 | Bastián Mavrakis| [@bamavrakis](https://github.com/bamavrakis) |
 | Felipe Quinteros| [@fnquinteros](https://github.com/fnquinteros) |
 | Hugo Navarrete | [@hanavarrete](https://github.com/hanavarrete) |
-<!---
+| Patricio Cerda | [@pcerdam](https://github.com/pcerdam) |
+
+
 ## Notas y participación
  
-En este [link](https://docs.google.com/a/uc.cl/spreadsheets/d/1Snp5MAS34kWscNpPXS5IF_kcR7MencSWNF-zYSHgflE/edit?usp=sharing)
-
+En este [link](https://docs.google.com/spreadsheets/d/1Z1EQCQGqZrWuLlf0n7_WO9amlnxRwg3VsBpsjELwlCc/edit?usp=sharing)
+<!---
 ## Comentario de evaluaciones.
 
 En este [link](https://goo.gl/forms/SovGD3zC8uoanxqz1)
