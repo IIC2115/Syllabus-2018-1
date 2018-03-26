@@ -50,3 +50,7 @@ En este [link](https://docs.google.com/spreadsheets/d/1Z1EQCQGqZrWuLlf0n7_WO9aml
 
 En este [link](https://goo.gl/forms/SovGD3zC8uoanxqz1)
 --->
+
+## Form para formar parejas
+
+En este [link](https://goo.gl/forms/15sUBoDroNIr9mfl1)
