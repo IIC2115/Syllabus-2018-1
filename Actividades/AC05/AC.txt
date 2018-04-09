@@ -1,0 +1,32 @@
+Era un día NORMAL en Pompeya. Laika paseaba a Bastián,              Hernán limpiaba la casa de su padre Marcelo Lagos, Daniela corregía la ortografía de las actividades,             Felipe mucho3343 yacía en el hospital por una CAIDA, Vicente se cortaba el pelo, y hacetuto2 Hugo se ENCONTRABA tirado en la plaza principal.
+De un momento a otro, toda          la normalidad se 4342k rompió. El Vesubio humeó y luego explotó.
+Toda la VIDA en Pompeya está en peligro, pero dado que el                  malvado gobernador Hans Lover                   prefirió lalalala3 salvarse a sí mismo, no dió aviso de EVACUACION y tan TENGOHAMBREEE24 solo le queda ver los resultados de tan terrible catastrofe.
+Dado que será imposible llegar a la zona (hay lava, realmente quieres acercarte?), tu misión es ENTREGAR a Hans una aproximación de las cifras resultantes, mediante una simulación por eventos discretos.
+El GRAN Vesubio produce erupciones que ocurren    según una distribución exponencial a una tasa LAMBDA y su intensidad puede ser debil, mediana o fuerte.
+Las distintas erupciones TIENEN atributos, que dependerán de su intensidad. 
+Las réplicas emiten                material piroclástico, que es la PARTE peligrosa de una erupción. Este se comporta de la siguiente manera: La emisión del material    puede  ocurrir en fsdmk3 cualquier punto del   camino y tienen un                  rango de efecto, EQUIVALENTE a su potencia x 4.
+La probabilidad de que da2 las personas no sobrevivan a la EMISION dentro de una carreta, como cuando estan caminando es de 0.1. Si es que ocurre una emisión de material piroclástico, esta jkfj5 ocurrira inmediatamente despues de la replica que lo genero, y alcanza su ancho maximo de manera instantanea. 
+En Pompeya viven 200 personas, donde cada una  tiene una personalidad, una rapidez (aleatoria entre 4 - 10 distancia por unidad de tiempo) y la posición inicial de una persona esta dada por una                distribución exponencial de tasa 5 km.
+También, hay 25 carretas    que tienen una rapidez (aleatoria entre 10 - 15 distancia por unidad de tiempo) y una capacidad que depende del tipo de carreta: hacefrioamigoayudame3 las carretas normales pueden llevar 5              personas, y transpompeya 8.
+Las carretas               son REPARTIDAS ALEATORIAMENTE                        entre la asd3 población, comienzan solamente con el conductor como pasajero y tienen la misma probabilidad de ser carretas normales o transpompeya.
+Una CARRETA puede        agregar gente a su interior si se encuentra con ellas durante sedondevivess2 su camino.
+Una vez ocurrida la   replica,                                 una carreta puede tanto parar como no para recoger a una persona.
+La playa de Pompeya ES una zona segura y todos los habitantes 212r se desplazan hacia ella. La playa se encuentra a 100 km del volcán.
+Como se mencionó                      anteriormente las personas tienen distintas personalidades. Estas PUEDEN ser:
+- Benevolente: Si EL conductor es BENEVOLENTE, la PROBABILIDAD             de detenerse cuando se encuentra a un caminante es 0.6.
+- Malulo: Si un conductor es malulo, la probabilidad de detenerse para  OJOSDEVOLCAN66 recoger a un caminante es de 0.3.
+Si la carreta está llena, la PROBABILIDAD de que se detenga es siempre 0.
+La ejecucion terminara cuando hayan pasado 200 unidades   de tiempo o bien, ninguna persona quede en Pompeya.
+Para que su trabajo tenga sentido, deberá simular 3 ejeeeeeeeeeeeeeeecuciones44242 ejecuciones, y al TERMINAR, entregar las siguientes estadisticas:
+- Número de llegados a la playa por tipo de carreta. 
+- Número             de LLEGADOS locomeaburri3      a la PLAYA a pie. 
+- Número de llegados quierodormir343439 a la playa por personalidad.
+- NÚMERO de victimas por  Intensidad de erupción.
+- Número de victimas que iban a pie.
+- Tiempo AHUahuaHUahuAHUahauHAuhaUahu2 promedio de cada las ejecuciones.
+Notas:
+- Las réplicas y emisiones ocurren en un instante.
+- El número de carretas    y personas es el MISMO para las 3 simulaciones.
+- La PLAYA se encuentra                     en el kilometro 100.
+- Una persona  está segura toyaburrio2                       cuando su posición está FUERA del rango del material piroclástico.
+- Imprimir MENSAJES print que permitan CONOCER el estado de la SIMULACION estoyhaciendotodoestoamano2 en la MEDIDA que ocurran los sucesos (eventos, una  carreta acepta recoger a una persona, una persona se sube a la                    carreta, etc.)
