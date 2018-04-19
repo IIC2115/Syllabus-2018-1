@@ -19,9 +19,10 @@ controles del material, tareas y un examen final. Se calculará **la nota del cu
 
 ## Recorrección o contaco
 
-Utilizar el siguiente [form](https://goo.gl/forms/6jOG0NCgOW5EDObr2).
+Si quiere recorregir, espere que empiece el periodo de recorrección que será avisado por Siding. Las instrucciones y form están en esta [página](https://github.com/IIC2115/Syllabus/issues/83)
 
-Si quiere recorregir, espere que empiece el periodo de recorrección que será avisado por Siding. No olvide ver como mandar a recorregir en esta [issue](https://github.com/IIC2115/Syllabus/issues/83)
+Dentro de la misma página, está el link con el formulario de contacto.
+
 ## Foro
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas.
