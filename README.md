@@ -55,3 +55,9 @@ En este [link](https://goo.gl/forms/SovGD3zC8uoanxqz1)
 ## Form para formar parejas
 
 En este [link](https://goo.gl/forms/15sUBoDroNIr9mfl1)
+
+## Sistema para actividades evaluadas.
+1) Se manda un aviso indicando que las notas están publicadas y que en 24 horas se subirá el feedback y empezará el periodo para solicitar arreglo.
+2) Luego de las 24 horas, a todos les mandamos el feedback a cierta hora y desde ese momento hay 24 horas para solicitar arreglo.
+3) En esas 24 horas está el siding con cuestionario abierto para decir que quiere solicitar arreglo.
+4) De forma paralela, cuando se mandó el feedback, hay 7 días para mandar a recorregir.
